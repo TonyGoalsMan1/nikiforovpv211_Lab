@@ -1,5 +1,5 @@
-package tech.reliab.course.toropchinda.bank.service.impl;
-import tech.reliab.course.toropchinda.bank.entity.Bank;
+package tech.reliab.course.nikiforova.bank.service.impl;
+import tech.reliab.course.nikiforova.bank.entity.Bank;
 
 public interface BankService {
     void addOffice(Bank bank);

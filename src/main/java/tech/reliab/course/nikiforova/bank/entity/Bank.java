@@ -1,4 +1,6 @@
-package tech.reliab.course.toropchinda.bank.entity;
+package tech.reliab.course.nikiforova.bank.entity;
+
+
 
 public class Bank {
     private String id;
@@ -19,8 +21,8 @@ public class Bank {
         this.officeCount = 0;
         this.atmCount = 0;
         this.employeeCount = 0;
-        this.clientCount = 0;
-        this.interestRate =  calculateInterestRate(rating);
+        //this.clientCount = 0;
+
 
     }
 }
